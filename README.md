@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 12, 2017
 
 ### Student Name:  
-(First and Last Name)
+Mary Smith
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this lesson I learned how to use AJAX to build web applications.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://mesmith9.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned that AJAX is a more seamless way to build web applications that utilize Javascript.
+2. I learned that JSON is a subset of Javascript and is easy to understand. 
+3. I learned that not all browsers support AJAX and it is good to test it on your browser.
